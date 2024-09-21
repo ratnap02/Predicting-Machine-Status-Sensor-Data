@@ -33,4 +33,4 @@ Model Training: Trained multiple models (Decision Tree, Random Forest, SVM) and 
 
 GUI Development: Created a Tkinter-based application to facilitate model selection and performance evaluation, making the system user-friendly and accessible.
 
-This project demonstrates your ability to apply machine learning techniques to real-world problems, preprocess data effectively, and develop interactive tools to communicate results.
+
